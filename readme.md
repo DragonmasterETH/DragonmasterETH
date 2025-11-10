@@ -14,6 +14,7 @@
 - 🥇 1st place in the March 2023 Liquality Virtual Hackathon for [Liquality Unity WebGL](https://github.com/Slula/Liquality-Unity-WebGL-Template) 
 - 🏅 New Things On Canto award in the Canto Online Hackathon Season 5 for [Cyberspace.computer](https://cyberspace.computer)
 - 🥇 Overall winner in the Canto Online Hackathon Season 6 for Untitled Canto Game (1)
+- 🥇 First place in the Abstract 2025 Hackathon for nootcards
 
 <br/>  
 
